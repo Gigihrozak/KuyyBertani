@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509524592062",
+    "firebase_url": "https://pertanian-324ba.firebaseio.com",
+    "project_id": "pertanian-324ba",
+    "storage_bucket": "pertanian-324ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509524592062:android:5698433dd8d29f8949a5ef",
+        "android_client_info": {
+          "package_name": "com.example.kuyybertani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509524592062-7m4edpjd381m9q36q4861hjcb0ll4u0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlYngyD8n3AFqEISSrDiVS7Swck197LmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509524592062-7m4edpjd381m9q36q4861hjcb0ll4u0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
